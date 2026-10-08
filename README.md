@@ -1,1 +1,2 @@
 # odin_recipes
+My very first project through ODIN! ive studied a lot to put the basics together so i can do this project. it will require my skills in attatching images, setting up links, using the building block ive learned to put it together and use my github knowledge to progress!
